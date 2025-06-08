@@ -22,7 +22,7 @@ The objective of CrimeScene is to autonomously navigate a the sumo ring, detect 
 | **Control** | Autonomous                                                              |
 
 <p align="center">
-  <img src="images/crimescene_components.png" alt="Internal Components of CrimeScene" width="400"/>
+  <img src="images/crimescene_components.PNG" alt="Internal Components of CrimeScene" width="400"/>
   <br>
   <em>A peek inside CrimeScene, showcasing the Arduino Leonardo and sensor wiring.</em>
 </p>

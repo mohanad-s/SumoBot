@@ -10,7 +10,7 @@
 
 The objective of CrimeScene is to autonomously navigate a the sumo ring, detect an opponent robot, and push it out of the arena while ensuring CrimeScene itself remains within the boundaries.
 
-## 🤖 Robot Specifications
+## Specifications
 
 | Feature          | Detail                                                                  |
 | :--------------- | :---------------------------------------------------------------------- |
